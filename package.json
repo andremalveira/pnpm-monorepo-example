@@ -1,0 +1,16 @@
+{
+  "name": "pnpm-monorepo-example",
+  "description": "Monorepo example using pnpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["monorepo", "pnpm", "monorepo-pnpm"],
+  "author": {
+    "name": "André Malveira",
+    "email": "andremalveira.dev@gmail.com",
+    "url": "https://github.com/andremalveira"
+  },
+  "license": "MIT"
+}
